@@ -1,29 +1,5 @@
 <div align="center">
 
-<img src="https://emojis.slackmojis.com/emojis/images/1643512447/39452/fire.gif?1643512447" width="40"/>
-
-## Pretty good at
-
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
-![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
-![Asahi Linux](https://img.shields.io/badge/Asahi%20Linux-A61200?logo=asahilinux&logoColor=fff)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
-![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
-![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
+<img src="banner.gif" width="40"/>
 
 </div>
